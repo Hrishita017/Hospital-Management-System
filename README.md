@@ -17,8 +17,7 @@ The Hospital Management System is a comprehensive Python-based application desig
 - **Backend**: Python
 - **Database**: MySQL
 - **GUI**: Tkinter
-- **Date Handling**: `tkcalendar`
-
+- 
 ### Installation
 
 1. **Create and Set Up the Database**:
