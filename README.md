@@ -26,7 +26,7 @@ The Hospital Management System is a comprehensive Python-based application desig
    - Optionally, use `data.sql` to populate the database with sample data.
 
 2. **Install Python Dependencies**:
-   - Install the required Python packages listed in `requirements.txt`.
+   - Install the required Python packages.
 
 3. **Run the Application**:
    - Execute the `hospital_management.py` script to start the application.
